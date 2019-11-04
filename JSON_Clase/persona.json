@@ -1,0 +1,10 @@
+{
+    "nombre" : "Pepe",
+    "edad": 23,
+    "isAlumno": true,
+    "direccion": {
+        "calle": "c/ Pez",
+        "numero": 3,
+        "ciudad": "Cádiz"
+    }
+}
